@@ -31,7 +31,7 @@ Digital Core Methodology/
 - **Assets in the repo.** Presentation assets (calculus formula PNGs, etc.) live in `assets/` and are referenced from the Figma canvas via raw GitHub URLs.
 
 ## Related Projects
-- **IVNA** (the mathematical case study): https://github.com/Playful-Sincerity/PS-Research-IVNA
+- **IVNA** (the mathematical case study): https://github.com/Playful-Sincerity/IVNA-Indexed-Virtual-Number-Algebra
 - **Playful Sincerity Digital Core (PSDC)**: private. The agent-configuration layer described in this paper.
 
 ## Figma Presentation Canvas

@@ -266,7 +266,7 @@ This paper, like the IVNA work it describes, was developed in collaboration with
 
 [30] Karpathy, A. *Software 2.0* (Medium, 2017) and subsequent talks on Software 3.0 framing language-model configuration as the new programming paradigm.
 
-[31] *Playful Sincerity Digital Core — Meta System.* Sanitized public release. https://github.com/Playful-Sincerity/claude-system
+[31] *Playful Sincerity Digital Core — Meta System.* Sanitized public release. https://github.com/Playful-Sincerity/PSDCMS-Playful-Sincerity-Digital-Core-Meta-System
 
 ---
 

@@ -59,7 +59,7 @@ The paper itself was produced using the methodology it describes. A `/think-deep
 
 Until a venue decision is made, cite as:
 
-> Wisdom Happy, "The Digital Core Methodology: A Configuration Layer for Multidisciplinary Innovation with Language Models," Playful Sincerity Research working paper, April 2026. Available at <https://github.com/Playful-Sincerity/Digital-Core-Methodology>
+> Wisdom Happy, "The Digital Core Methodology: A Configuration Layer for Multidisciplinary Innovation with Language Models," Playful Sincerity Research working paper, April 2026. Available at <https://github.com/Playful-Sincerity/DCM-Digital-Core-Methodology>
 
 ## Author
 

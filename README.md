@@ -50,7 +50,7 @@ The paper itself was produced using the methodology it describes. A `/think-deep
 
 ## Related
 
-- **[Playful Sincerity Digital Core — Meta System](https://github.com/Playful-Sincerity/PSDCMS-Playful-Sincerity-Digital-Core-Meta-System)** — the configuration layer described in the paper. Sanitized public release. 33 rules, 21 skills, 16 hook scripts, four distinctive subsystems (voice, hallucinations, security, chronicle).
+- **[Playful Sincerity Digital Core — Meta System](https://github.com/Playful-Sincerity/PSDCMS-Playful-Sincerity-Digital-Core-Meta-System)** — the configuration layer described in the paper. Sanitized public release. 33 rules, 23 skills, 16 hook scripts, four distinctive subsystems (voice, hallucinations, security, chronicle).
 - **[IVNA: Indexed Virtual Number Algebra](https://github.com/Playful-Sincerity/IVNA-Indexed-Virtual-Number-Algebra)** — the mathematical case study. Source repository including verification suite, Lean 4 formalization, and 403 reproducible verification checks.
 - **[Prior-art research](./research/2026-04-24-prior-art.md)** — supporting research for §3 (Background) and §7 (Broader Themes). 60 references across 5 domains.
 - **Playful Sincerity Research** — the research umbrella this work sits inside.
